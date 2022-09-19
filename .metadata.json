@@ -2,5 +2,9 @@
   {
     "package": "glmmfields",
     "oncran": true
+  },
+  {
+    "package": "metafolio",
+    "oncran": true
   }
 ]

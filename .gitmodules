@@ -8,3 +8,8 @@
 	url = https://github.com/seananderson/glmmfields
 	shallow = true
 	registered = true
+[submodule "metafolio"]
+	path = metafolio
+	url = https://github.com/seananderson/metafolio
+	shallow = true
+	registered = true
