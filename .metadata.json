@@ -1,10 +1,10 @@
 [
   {
-    "package": "glmmfields",
+    "package": "metafolio",
     "oncran": true
   },
   {
-    "package": "metafolio",
+    "package": "glmmfields",
     "oncran": true
   }
 ]
